@@ -13,9 +13,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-naithani-5abb60315/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurnaithani333@gmail.com)
 [![Visitor Count](https://komarev.com/ghpvc/?username=madhurXeng&color=00ffe7&style=for-the-badge&label=VISITORS)](https://github.com/madhurXeng)
 
 </div>
@@ -26,10 +25,10 @@
 
 I'm a developer and AI enthusiast from India 🇮🇳, building at the intersection of **full-stack web development** and **machine learning**. I believe the most powerful products are the ones where great engineering meets smart models.
 
-- 🔭 Currently learning **React, Node.js, and Deep Learning**
-- 🤖 Exploring **LLMs, Transformers, and AI-powered apps**
-- 🌱 Building projects that combine **web + AI**
-- 🟢 Open to collaborate on anything cool
+- Currently learning **React, Node.js, and Deep Learning**
+- Exploring **LLMs, Transformers, and AI-powered apps**
+- Building projects that combine **web + AI**
+- Open to collaborate on anything cool
 
 ---
 

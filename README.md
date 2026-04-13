@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Madhur**, a Full Stack Developer based in India 🇮🇳, specializing in building scalable web applications enriched with AI capabilities.
+I'm **Madhur**, a B.Tech student in Computer and Communication Engineering from India 🇮🇳, specializing in building scalable web applications enriched with AI capabilities.
 
 My work sits at the intersection of **robust engineering** and **intelligent systems** — from crafting seamless React interfaces to architecting backend APIs and integrating machine learning pipelines.
 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe7,100:0d1117&height=200&section=header&text=Madhur&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe7,100:0d1117&height=200&section=header&text=Madhur&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20Undergrad%20%7C%20UI/UX%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
